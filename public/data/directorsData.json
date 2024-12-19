@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Sadanand Rasal",
+        "title": "Founder, Managing Director & CEO",
+        "url": "/",
+        "imgSrc": "/Images/dr_sadanand_rasal_profile.png",
+        "info": [
+            "Dr Sadanand Rasal , is a Yog and Homeopathic physician turned technology innovative researcher. After successfully doing Clinical practice post graduating from Pune university in Homeopathy, he took sanyasa under guidance of his master, Satguru Janglidas Maharaj.",
+            "Over the last 26 years of experience in Healthcare, Diagnostic and clinical medicine, he has owned and run successful Hospital, Clinics and diagnostic centres in Urban metro cities and Remote rural areas of Pune, Ahmednagar and Ratnagiri. He is credited with extensive working in COVID and saving Hundreds of lives using AYUSH based protocol developed by him, Non-invasive testing based on yoga, Telemedicine platforms enabling to treat patients not only in India but far west too.",
+            "Before starting Atmavedayog, He was responsible for the successful functioning of Shree Ganesh Polyclinic, Shree Ganesh Diagnostic centre, Yogesh speciality Clinic and research centre, Chinmayi Paramedical Training Institute."
+        ],
+        "Profile": {
+            "Medical_Education": [
+                {
+                    "Degree": "Completed BHMS, Bachelor's in Homeopathic Medicine & Surgery",
+                    "University": "Poona University",
+                    "Institution": "Lokmanya Foundation's Homeopathic Medical College",
+                    "Year": "1989-1996"
+                },
+                {
+                    "Degree": "PGDMLT",
+                    "Institution": "MTBTC, Pune"
+                }
+            ],
+            "exploration": [
+                "2005 Spiritual Journey commenced taking Diksha from Satguru Janglidas Maharaj, Kokamthan",
+                "Satguru initiated Atma Yog, Atma Darshana & Atma Drushti",
+                "Satguru sent for Yog and Spiritual Learning to -"
+            ],
+            "learnings": [
+                {
+                    "aashram": "Shri Lal Baba, Agasthya Maharishi Ashram Ankai",
+                    "desc": "Spent time, months in Cave in Agasthya rishi Ashram. Was taught Kaya Yog, Sparsh Yog, and Tantra etc."
+                },
+                {
+                    "aashram": "Agasthya Maharishi ashram ",
+                    "desc": "was the place to learn from Naga sadhus, Aghoris and Buddhist monks. "
+                },
+                {
+                    "aashram": "Sita Maa gufa ",
+                    "desc": "Living in Caves of Sita Maa gufa taught Food, Water and Air Vs. Soul, Mind and Body through Atmadarhsana , Atmasanshodhan"
+                },
+                {
+                    "aashram": "Parampujya Jain Guru Shri Hasmukh Muni Maharaj ",
+                    "desc": "taught Sansar, Sukh and Mukti in relation to Body, Mind and Sufferings."
+                },
+                {
+                    "aashram": "Mauni Baba, Yeola.",
+                    "desc": "Taught Yama & Niyama, Maun yoga.,Bade Baba & Chote Baba ki majar. "
+                }
+            ],
+            "technology": {
+                "frontEnd": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "jQuery",
+                    "Ajax",
+                    "Bootstrap",
+                    "Angular",
+                    "React JS"
+                ],
+                "backEnd": [
+                    "C++",
+                    "Core Java",
+                    "Advanced Java",
+                    "Java Frameworks"
+                ],
+                "database": [
+                    "SQL"
+                ],
+                "ai": [
+                    "Standard AI"
+                ]
+            },
+            "workExperience": [
+                {
+                    "Position": "Founder",
+                    "Organization": "Shree Ganesh Polyclinic",
+                    "Years": "1996-2005",
+                    "Description": [
+                        "In the industrial township of Pimpir-Chinchwad, Maharashtra, a multi-specialty polyclinic with isiting consultant served the local community.",
+                        "I during this period successfully did one of the prominent General practice in CMC region."
+                    ]
+                },
+                {
+                    "Position": "Founder",
+                    "Organization": "Shree Ganesh Polyclinic & Nursing Home",
+                    "Years": "1998-2005",
+                    "Description": [
+                        "To cater to the OPD patients a 10 beds Nursing home was registered under the Bombay Nursing home act. Patients with medical issues were treated by leading consultants on call. "
+                    ]
+                },
+                {
+                    "Position": "Founder Partner",
+                    "Organization": "Shree Ganesh Diagnostic Centre",
+                    "Years": "2002-2006",
+                    "Description": [
+                        "To bring all services under one roof and for prompt diagnostic support 24x7 a multi-specialty Diagnostic Centre was founded.",
+                        "With expertise in lab technology and observership in radiology one of the best Diagnostic Centre equipped with -"
+                    ],
+                    "lists": [
+                        "State of art automate lab- Elisa, Cell counter, ABG machine, Immunoturbidometry, Biochemistry, Cell culture etc.",
+                        "300 mA Digital X-ray with Fluoroscopy unit.",
+                        "USG machine.",
+                        "2D Echocardiography",
+                        "ECG",
+                        "PFT,  along with services to inpatients B2B clients like YCM hospital, D Y Patil Hospital and Sassoon hospital were served."
+                    ]
+                },
+                {
+                    "Position": "Founder",
+                    "Organization": "Shree Ganesh Surgical Hospital & Polyclinic (Pune)",
+                    "Years": "2002-2006",
+                    "Description": "Shree Ganesh Polyclinic was upgraded to a surgical hospital with post-surgical and medical Intensive care facility. Various surgeries were performed in the hospital along with variety of critical and non-critical medicine cases were managed. The hospital was on the panel of a dozen of MNC."
+                },
+                {
+                    "Position": "Founder",
+                    "Organization": "Yogesh Specialty Clinic & Research Centre (Ratnagiri)",
+                    "Years": "2017-2019",
+                    "Description": "Returning from sanyasa, on the instruction of Master Shri Satguru Janglidas Maharaj, a Rural Centre was set up in Bhambed village of Ratnagiri which served medical services to hub of 21 villages/wadi. As per masters advice a holistic medical center was set up keeping in mind utilization of minimum resource maximum utilization. Have presently stopped the centre due to paucity of funds and human resources. Set up and infrastructure is ready to use whenever activated."
+                },
+                {
+                    "Position": "Founder",
+                    "Organization": "Yogesh Specialty Clinic & Research Centre (Pune)",
+                    "Years": "2018-Present",
+                    "Description": "With requirement of funds professional career was started again with help of well wishers in the same premises were shree ganesh surgical hospital used to run its activities. A integrative holistic centre with in house residential care was started. The clients were from lower section of the society to high level executives form MNC. "
+                },
+                {
+                    "Position": "Founder",
+                    "Organization": "Yogesh Specialty Clinic & Research Centre (Ahmednagar)",
+                    "Years": "2019-2023",
+                    "Description": "In the rural area of Ahmednagar a complete residential and clinical centre was started which catered services of integrative alternative holistic ayush based healthcare to patients form nearby district. In covid pandemic extensive work of awareness, treatment and criticare cases was carried out in this region."
+                },
+                {
+                    "Position": "Founder-Director-CEO",
+                    "Organization": "Atmavedayog Pvt Ltd",
+                    "Years": "2020-Present",
+                    "Description": "A startup focusing on AI in Yoga, precision medicine, AYUSH integrative protocols, and innovative healthcare models.",
+                    "lists": [
+                        "Innovative utility and application of yoga in AI,",
+                        "Innovation diagnostic. ",
+                        "Precision medicine, ",
+                        "AYUSH integrative treatment and management protocols,",
+                        "Research-( Yog /ayush based)",
+                        "Medicine formulations",
+                        "Minimum resource Max utilization healthcare model",
+                        "Yog Guided Healthcare training Awareness",
+                        "Community medicine",
+                        "Preventive medicine for general public and corporate. "
+                    ],
+                    "subList": [
+                        "Disease Progression ",
+                        "Geriatric Health And Age Reversal",
+                        "Viral  mutations",
+                        "Organ reversals ",
+                        "Integrative approach to criticare medicine."
+                    ]
+                }
+            ],
+            "ResearchFocus": [
+                "Reversal of cellular aging",
+                "Reversal of organ injury",
+                "Non-medicinal approaches to chronic diseases",
+                "Biochemical disease markers",
+                "Immune markers",
+                "Anthropometric analysis",
+                "Chakra physiology",
+                "Psycho-somatic axis",
+                "Somato-psychic axis",
+                "Hormones as health indicators and Disease markers",
+                "Limitations of modern diagnostic tools & methods."
+            ],
+            "Scopes": [
+                "Autoimmune joint and spine disorders",
+                "Crippling OA of knee joint",
+                "Uncontrolled Insulin dependent DM",
+                "Diabetes mellitus with complication",
+                "Organ Failures",
+                "Valvular diseases of heart",
+                "COVID & Post COVID organ disease",
+                "Idiopathic diseases",
+                "Hormonal disorders in Men & Women",
+                "Infertility",
+                "Lung Fibrosis/Interstitial lung disease",
+                "Genetic diseases",
+                "Chrons disease/IBS",
+                "Chronic fatigue syndrome",
+                "Dysmorphic features in MPS",
+                "Thromboembolism - CNS-CVS-RS-Systemic",
+                "Chronic kidney disease",
+                "Autism & ADHD",
+                "Anti-aging and Geriatric medicine",
+                "PCOD / Menopausal syndrome",
+                "Coagulopathies",
+                "Parkinsonism / Alzheimer's / Atrophy / Amyloidosis"
+            ],
+            "Motto": "Where all stop, Yog empowers us to begin"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Mrs. Shital Dhole",
+        "aashram": "Director",
+        "url": "/",
+        "imgSrc": "/Images/asdf",
+        "info": [
+            "One of the first young mind to join as a director. Before joining was a disciple of Dr. Sadanand and trained under him for 8 years in yoga, yogic diagnosis and medicine formulations.",
+            "She heads the administrative department along with managing the Yoga instructors registered as service providers. Qualified as a graduate in Commerce and as a Yog instructor along with being a Beautician she also heads the SkinNeo unit of Atmavedayog programmes for beauty and skin care."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Miss Chinmayi Rasal",
+        "title": "Director",
+        "url": "/",
+        "imgSrc": "/Images/asdf",
+        "info": [
+            "A dynamic young mind and youngest director of Atmavedayog."
+        ]
+    }
+]

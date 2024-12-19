@@ -1,0 +1,171 @@
+[
+    {
+        "packageName": "Liver Care Package",
+        "description": "Holistic treatment program for improving liver health so that the liver can perform its essential functions related to digestion, metabolism, and immunity with efficiency, and assist in the storage of nutrients within the body.",
+        "type": "Online/Offline",
+        "monthlyCharges": "10,000 to 15,000",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Liver Failure Package",
+        "description": "Improve liver failure patient quality of life, prolong life, avoid repeated complications, delay hospitalization, attempt liver restoration.",
+        "type": "Online/Offline",
+        "monthlyCharges": "21,500 to 51,500 per month",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Kidney Failure Rx Package",
+        "description": "Reduce increased rates of creatinine, urea, and uric acid. Avoid/reduce dialysis. Attempt restoration of kidney, avoid complications and critical conditions.",
+        "type": "Online/Offline",
+        "monthlyCharges": "20,000 to 515,000 per month",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Kidney Care Package",
+        "description": "Holistic health program to maintain kidney health, which is important to your overall health and general well-being. By keeping kidneys healthy, your body will filter and expel waste properly and produce hormones to help your body function properly.",
+        "type": "Online/Offline",
+        "monthlyCharges": "20,000 to 415,000 per month",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Liver Cirrhosis Rx Package",
+        "description": "Maintain, manage, and repair liver cirrhosis to avoid progression and repeated hospitalization.",
+        "type": "Online/Offline",
+        "monthlyCharges": "Based on critical score",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Heart Failure Package",
+        "description": "Holistic cardiac restoration program for congestive cardiac failure, valvular cardiac disease, coronary artery disease, cardiac myopathy, cardiac arrhythmias, myocarditis.",
+        "type": "Online/Offline",
+        "monthlyCharges": "Based on critical score",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Autoimmune Jt Disease Rx",
+        "description": "Safe, non-steroidal, non-allopathic treatment for rheumatoid arthritis, SLE, psoriatic arthropathy, multiple sclerosis, polymyalgia rheumatica, ankylosing spondylitis, juvenile arthritis, autoimmune inflammatory arthritis.",
+        "type": "Online/Offline",
+        "monthlyCharges": "8,000 to 30,000 per month",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Diabetes Prevention Package",
+        "description": "Diabetes preventive package includes unique YOG-E diabetic screening, preventive wellness program, preventive medicines. Stay away from diabetes.",
+        "type": "Online/Offline",
+        "monthlyCharges": "60,000 to 120,000 Rs",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Diabetes Reversal Package",
+        "description": "Reduce your insulin, antidiabetic medicine, blood sugars, and also reverse diabetes. For Type 1 & Type 2 Diabetes.",
+        "type": "",
+        "monthlyCharges": "60,000 to 300,000 Rs",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Diabetic Complication Rx",
+        "description": "Find solutions for diabetic retinopathy, diabetic nephropathy, diabetic polyneuropathy, diabetic angiopathy, diabetic foot.",
+        "type": "",
+        "monthlyCharges": "Based on critical score",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Crohn's Disease Management",
+        "description": "A complete healing program for Crohn's and large bowel diseases.",
+        "type": "",
+        "monthlyCharges": "8,000 to 115,000 Rs per month",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Joint Rx & Rehabilitation",
+        "description": "Result-oriented sage programs for severe OA of knees, severe spine degenerative diseases, severe RA, gout.",
+        "type": "",
+        "monthlyCharges": "",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    },
+    {
+        "packageName": "Spine Rx & Rehabilitation",
+        "description": "A holistic treatment for spine disorders like degenerative spine disorders, lumbar spondylitis, cervical spondylitis, ankylosing spondylitis.",
+        "type": "",
+        "monthlyCharges": "8,000 to 30,000 Rs per month",
+        "includes": [
+            "Consultation",
+            "Diet prescription",
+            "Yoga therapy",
+            "30-day medicine",
+            "Residential healing therapy (3 days)"
+        ]
+    }
+]

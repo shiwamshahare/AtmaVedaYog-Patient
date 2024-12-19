@@ -1,0 +1,69 @@
+{
+    "fourcards": [
+        {
+            "id": 1,
+            "imgSrc": "Images/doctor.png",
+            "title": "Doctor Consultation",
+            "subTitle": "Expert care, anytime.",
+            "type": "Appointment",
+            "description": "Consult top doctors for your health concerns.",
+            "url": "/services/consultation"
+        },
+        {
+            "id": 2,
+            "imgSrc": "Images/doctor.png",
+            "title": "Diagnosis Test",
+            "subTitle": "Quick and accurate.",
+            "type": "Test",
+            "description": "Get precise results for better treatment.",
+            "url": "/services/diagnostic-tests"
+        },
+        {
+            "id": 3,
+            "imgSrc": "Images/doctor.png",
+            "title": "Critical Care & Organ Failure",
+            "subTitle": "Advanced care solutions.",
+            "type": "Consultation",
+            "description": "Expert care for life-critical conditions.",
+            "url": "/services/critical-care"
+        },
+        {
+            "id": 4,
+            "imgSrc": "Images/doctor.png",
+            "title": "Yoga & Wellness",
+            "subTitle": "Balance your mind and body.",
+            "type": "Session",
+            "description": "Improve your well-being with yoga sessions.",
+            "url": "/services/wellness-yoga"
+        }
+    ],
+    "threecards": [
+        {
+            "id": 5,
+            "imgSrc": "",
+            "title": "Body Transformation",
+            "subTitle": "Redefine yourself.",
+            "type": "Appointment",
+            "description": "Achieve your fitness goals with us.",
+            "url": "/services/body-transformations"
+        },
+        {
+            "id": 6,
+            "imgSrc": "",
+            "title": "Geriatric Treatment",
+            "subTitle": "Care for the elderly.",
+            "type": "Consultation",
+            "description": "Comprehensive treatment for senior citizens.",
+            "url": "/services/geriatric-treatment"
+        },
+        {
+            "id": 7,
+            "imgSrc": "",
+            "title": "Kids Care",
+            "subTitle": "Healthy smiles for kids.",
+            "type": "Consultation",
+            "description": "Dedicated care for your child's health.",
+            "url": "/services/kids-care"
+        }
+    ]
+}

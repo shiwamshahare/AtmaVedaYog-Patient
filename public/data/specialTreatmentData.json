@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Diabetes Reduce Medicine plan",
+        "type": "Appointment",
+        "desc": "Comprehensive treatment plan focused on reducing diabetes medication through lifestyle modifications and natural interventions"
+    },
+    {
+        "id": 2,
+        "title": "Diabetes Stop Insulin Treatment Plan",
+        "type": "Appointment",
+        "desc": "Specialized program aimed at helping patients reduce and potentially eliminate insulin dependency through monitored treatment"
+    },
+    {
+        "id": 3,
+        "title": "Holistic Type 1 Diabetes Management",
+        "type": "Appointment",
+        "desc": "Integrated approach combining conventional and natural therapies for optimal Type 1 diabetes control"
+    },
+    {
+        "id": 4,
+        "title": "Arthritis Management plan",
+        "type": "Test",
+        "desc": "Evidence-based treatment protocol for managing arthritis symptoms and improving joint mobility"
+    },
+    {
+        "id": 5,
+        "title": "Rheumatoid Arthritis Management",
+        "type": "Appointment",
+        "desc": "Specialized care program for rheumatoid arthritis focusing on pain management and preventing disease progression"
+    },
+    {
+        "id": 6,
+        "title": "Spine Disorders Management",
+        "type": "Appointment",
+        "desc": "Comprehensive treatment approach for various spine conditions including pain management and rehabilitation"
+    },
+    {
+        "id": 7,
+        "title": "Autoimmune Disorders Management",
+        "type": "Appointment",
+        "desc": "Personalized treatment protocols for various autoimmune conditions with focus on immune system regulation"
+    },
+    {
+        "id": 8,
+        "title": "Chronic Disease Management",
+        "type": "Test",
+        "desc": "Integrated approach to managing long-term health conditions with emphasis on quality of life improvement"
+    }
+]

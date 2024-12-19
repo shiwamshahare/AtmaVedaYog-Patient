@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "YogE Diagnostic Assistant course",
+        "subTitle": "Learn Diagnostic Skills",
+        "desc": "A comprehensive course to train as a diagnostic assistant with yoga-based methodologies.",
+        "url": "/courses/yoge-diagnostic-assistant"
+    },
+    {
+        "id": 2,
+        "title": "YogE Clinical Yog Assistant",
+        "subTitle": "Clinical Yoga Practices",
+        "desc": "Explore yoga techniques tailored for clinical applications and patient care.",
+        "url": "/courses/yoge-clinical-yog-assistant"
+    },
+    {
+        "id": 3,
+        "title": "YogE Clinical Research Assistant",
+        "subTitle": "Research in Clinical Yoga",
+        "desc": "Develop skills in clinical research with a focus on yoga and integrative medicine.",
+        "url": "/courses/yoge-clinical-research-assistant"
+    },
+    {
+        "id": 4,
+        "title": "YogE E Clinician",
+        "subTitle": "Digital Clinician Training",
+        "desc": "Train as a digital clinician with yoga expertise and advanced technology tools.",
+        "url": "/courses/yoge-e-clinician"
+    },
+    {
+        "id": 5,
+        "title": "YogE Diagnostic Technician",
+        "subTitle": "Advanced Diagnostics",
+        "desc": "Master diagnostic techniques integrated with yoga and wellness practices.",
+        "url": "/courses/yoge-diagnostic-technician"
+    },
+    {
+        "id": 6,
+        "title": "Hath yoga Course",
+        "subTitle": "Traditional Hath Yoga",
+        "desc": "Dive into the fundamentals of Hath Yoga and its traditional practices.",
+        "url": "/courses/hath-yoga"
+    },
+    {
+        "id": 7,
+        "title": "Integrative Yoga Medicine Course",
+        "subTitle": "Yoga and Medicine",
+        "desc": "A unique course merging yoga practices with integrative medical approaches.",
+        "url": "/courses/integrative-yoga-medicine"
+    },
+    {
+        "id": 8,
+        "title": "YogE Dietician Course",
+        "subTitle": "Nutrition and Yoga",
+        "desc": "Learn dietetics combined with yoga for holistic wellness.",
+        "url": "/courses/yoge-dietician"
+    }
+]

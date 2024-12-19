@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "service": "General Consultation",
+        "description": "For minor illness, take the first step and consult a doctor to seek timely advice.",
+        "type": [
+            "Online",
+            "Offline"
+        ],
+        "duration": "15 min",
+        "price": {
+            "Online": "100 Rs",
+            "Offline": "50 Rs"
+        },
+        "charge_type": "Per Consultation"
+    },
+    {
+        "id": 2,
+        "service": "Advanced Consultation",
+        "description": "For long-standing chronic diseases, our experts will take your detailed case history and help identify solutions to treat.",
+        "type": [
+            "Online",
+            "Offline"
+        ],
+        "duration": "30 min",
+        "price": {
+            "Online": "2500 Rs",
+            "Offline": "2000 Rs"
+        },
+        "charge_type": "Per Consultation"
+    },
+    {
+        "id": 3,
+        "service": "Holistic Consultation",
+        "description": "Consult our holistic medicine experts for medicine-free or medicine-less treatment options or solutions.",
+        "type": [
+            "Online",
+            "Offline"
+        ],
+        "duration": "30 min",
+        "price": {
+            "Online": "3500 Rs",
+            "Offline": "3000 Rs"
+        },
+        "charge_type": "Per Consultation"
+    },
+    {
+        "id": 4,
+        "service": "Pre-Treatment Consultation",
+        "description": "Talk before a treatment with a doctor to understand the offered solutions with pros and cons, enabling decision-making.",
+        "type": [
+            "Online",
+            "Offline"
+        ],
+        "duration": "30 min",
+        "price": {
+            "Online": "1200 Rs",
+            "Offline": "1000 Rs"
+        },
+        "charge_type": "Per Consultation"
+    },
+    {
+        "id": 5,
+        "service": "Critical Consultation",
+        "description": "Consult experts for critically ill patients who are in a hopeless situation or have tried all systems of medicine without benefit. Save life, defeat death.",
+        "type": [
+            "Online",
+            "Offline"
+        ],
+        "duration": "30 min",
+        "price": {
+            "Online": "2000 Rs",
+            "Offline": "1500 Rs"
+        },
+        "charge_type": "Per Consultation"
+    },
+    {
+        "id": 6,
+        "service": "ICU Consultation",
+        "description": "Consult for alternative medical solutions for patients in ICU who are serious.",
+        "type": [
+            "Online",
+            "Offline"
+        ],
+        "duration": "30 min",
+        "price": {
+            "Online": "2000 Rs",
+            "Offline": "2000 Rs"
+        },
+        "charge_type": "Per Consultation"
+    },
+    {
+        "id": 7,
+        "service": "Second Opinion",
+        "description": "A second opinion matters. Choose our expert after you've received an initial diagnosis or treatment plan for a medical condition.",
+        "type": [
+            "Online",
+            "Offline"
+        ],
+        "duration": "60 min",
+        "price": {
+            "Online": "3500 Rs",
+            "Offline": "3000 Rs"
+        },
+        "charge_type": "Per Consultation"
+    },
+    {
+        "id": 8,
+        "service": "COVID-Related Consultation",
+        "description": "An online consultation service provided for suspected or detected COVID-19 patients. Enables patients to consult doctors online and receive medical advice.",
+        "type": [
+            "Online"
+        ],
+        "duration": "30 min",
+        "price": {
+            "Online": "1500 Rs"
+        },
+        "charge_type": "Per Consultation"
+    }
+]

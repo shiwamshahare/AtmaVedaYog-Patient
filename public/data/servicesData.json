@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Consultation",
+        "desc": "Personalized consultations with expert professionals.",
+        "subTitle": "Healthcare",
+        "url": "/services/consultation"
+    },
+    {
+        "id": 2,
+        "title": "Diagnostic Tests",
+        "desc": "Comprehensive diagnostic tests to assess your health.",
+        "subTitle": "Healthcare",
+        "url": "/services/diagnostic-tests"
+    },
+    {
+        "id": 3,
+        "title": "Speciality Treatments",
+        "desc": "Specialized treatments for various health conditions.",
+        "subTitle": "Healthcare",
+        "url": "/services/speciality-treatments"
+    },
+    {
+        "id": 4,
+        "title": "Packages",
+        "desc": "Health and wellness packages tailored to your needs.",
+        "subTitle": "Wellness",
+        "url": "/services/packages"
+    },
+    {
+        "id": 5,
+        "title": "Wellness & Yoga",
+        "desc": "Holistic wellness services and yoga classes for all levels.",
+        "subTitle": "Wellness",
+        "url": "/services/wellness-yoga"
+    },
+    {
+        "id": 6,
+        "title": "Body Transformations",
+        "desc": "Guided fitness and nutrition programs to transform your body.",
+        "subTitle": "Fitness",
+        "url": "/services/body-transformations"
+    }
+]

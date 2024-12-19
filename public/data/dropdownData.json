@@ -1,0 +1,76 @@
+{
+    "services": [
+        {
+            "name": "Consultation",
+            "url": "/services/consultation",
+            "icon": "/icons/doctor.svg"
+        },
+        {
+            "name": "Diagnostic Tests",
+            "url": "/services/diagnostic-tests",
+            "icon": "/icons/test.svg"
+        },
+        {
+            "name": "Speciality Treatments",
+            "url": "/services/speciality-treatments",
+            "icon": "/icons/care.svg"
+        },
+        {
+            "name": "Packages",
+            "url": "/services/packages",
+            "icon": "/icons/package.svg"
+        },
+        {
+            "name": "Wellness & Yoga",
+            "url": "/services/wellness-yoga",
+            "icon": "/icons/yoga.svg"
+        },
+        {
+            "name": "Body Transformations",
+            "url": "/services/body-transformations",
+            "icon": "/icons/bodytrans.svg"
+        }
+    ],
+    "courses": [
+        {
+            "name": "YogE Diagnostic Assistant course",
+            "url": "/courses/yoge-diagnostic-assistant",
+            "icon": "/icons/cource.svg"
+        },
+        {
+            "name": "YogE Clinical Yog Assistant",
+            "url": "/courses/yoge-clinical-yog-assistant",
+            "icon": "/icons/cource.svg"
+        },
+        {
+            "name": "YogE Clinical Research Assistant",
+            "url": "/courses/yoge-clinical-research-assistant",
+            "icon": "/icons/cource.svg"
+        },
+        {
+            "name": "YogE E Clinician",
+            "url": "/courses/yoge-e-clinician",
+            "icon": "/icons/cource.svg"
+        },
+        {
+            "name": "YogE Diagnostic Technician",
+            "url": "/courses/yoge-diagnostic-technician",
+            "icon": "/icons/cource.svg"
+        },
+        {
+            "name": "Hath yoga Course",
+            "url": "/courses/hath-yoga",
+            "icon": "/icons/cource.svg"
+        },
+        {
+            "name": "Integrative Yoga Medicine Course",
+            "url": "/courses/integrative-yoga-medicine",
+            "icon": "/icons/cource.svg"
+        },
+        {
+            "name": "YogE Dietician Course",
+            "url": "/courses/yoge-dietician",
+            "icon": "/icons/cource.svg"
+        }
+    ]
+}

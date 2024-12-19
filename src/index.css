@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn1 {
+  @apply border-orange-200 border-2 active:scale-95 mt-auto xl:px-4 px-2 py-2  text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors;
+}
+
+.btn2 {
+  @apply xl:px-4 px-2 py-2 text-sm transition-colors duration-100 ease-in-out rounded-xl border-[#4bb543] border-2 active:scale-95 hover:bg-black/75 hover:text-white;
+}
+
+.card-style {
+  @apply relative bg-white rounded-lg shadow-md border-2  flex overflow-hidden transition-all duration-300 ease-in-out  hover:shadow-xl before:absolute before:top-0 before:-left-full before:w-full before:h-full before:bg-gradient-to-r before:from-[#74d8a3] before:to-[rgb(143,208,172)] before:transition-all before:duration-200 before:ease-in-out before:z-[-1] before:rounded-xl hover:before:left-0;
+}
+
+.bg-gradient {
+  @apply absolute w-full h-full bg-[linear-gradient(to_tr,_#22c55e,_#3b82f6,_#facc15,_#84cc16,_#f97316)] blur-[10px] group-hover:animate-spin duration-[6000ms] ease-linear opacity-0 transition-opacity group-hover:opacity-80;
+}
